@@ -1,5 +1,5 @@
 # KLIFSAI
-Kinase bioactivity prediction models to help discover kinase inhibitor
+Kinase bioactivity prediction models to help discover selective kinase inhibitor
 
 This repository will be a minimal version of KLIFSAI. KLIFSAI will provide a Random Forest Classifier to help in the process of kinase discovery. 
 
