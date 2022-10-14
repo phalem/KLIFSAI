@@ -11,6 +11,6 @@ This project will be a part of large project that will provide a deep and valid 
 
 The aim of the project is to help any Cancer Institute or Research institute to develop selective cancer drug for FREE or cheap price.
 
-ّ`Data will be provided with the paper of every kinase, but the RF model will be provided as soon as it has been completed`
+`Data will be provided with the paper of every kinase, but the RF model will be provided as soon as it has been completed`
 
 For any further details or questions please contact me at: moh.acad@protonmail.com
